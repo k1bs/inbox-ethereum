@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Alex Kibler <alexkibler@me.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "ganache-cli": "^6.1.0",
     "mocha": "^5.2.0",
