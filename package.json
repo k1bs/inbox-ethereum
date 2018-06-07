@@ -1,0 +1,7 @@
+{
+  "name": "inbox-ethereum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alex Kibler <alexkibler@me.com>",
+  "license": "MIT"
+}
