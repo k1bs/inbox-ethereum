@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Alex Kibler <alexkibler@me.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
 }
